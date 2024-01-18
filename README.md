@@ -2,7 +2,7 @@
 
 **Welcome to the code repository for GPT4DFCI, a private and secure generative AI tool, based on GPT-4 and deployed at Dana-Farber Cancer Institute.**
 
-*The development of this tool is led by the Dana-Farber Informatics & Analytics Department; tool requirements, usage policy, and training material are overseen by the broader Dana-Farber Generative AI Governance Committee.*
+*ℹ️ The development of this tool is led by the Dana-Farber Informatics & Analytics Department; tool requirements, usage policy, and training material are overseen by the broader Dana-Farber Generative AI Governance Committee.*
 
 This repository is organized in the following sections:
 
@@ -25,6 +25,8 @@ Here you will find the [training material](./link) that accompanied this tool de
 # 💻 GPT4DFCI Front-end Code
 
 <img src="https://github.com/Dana-Farber-AIOS/GPT4DFCI/assets/25375373/3400b3cf-9faf-4fce-8c22-3dff0cb5313e"/>
+
+
 
 All code is in the [DFCI-GPT4DFCI](./DFCI-GPT4DFCI) folder.
 
@@ -87,6 +89,8 @@ yarn prettier --write .
 # ⌨ GPT4DFCI Backend Code
 
 <img src="https://github.com/Dana-Farber-AIOS/GPT4DFCI/assets/25375373/91ac623e-8f4d-4a3b-9d3f-e26230965c1d"/>
+
+
 
 All code is in the [DFCI-GPT4DFCI-Backend](./DFCI-GPT4DFCI-Backend) folder.
 
