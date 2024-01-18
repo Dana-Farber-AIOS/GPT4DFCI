@@ -1,26 +1,32 @@
 # GPT4DFCI 🤖
 
-**Welcome to the GPT4DFCI code repository, a private and secure generative AI tool, based on GPT-4 and deployed at Dana-Farber Cancer Institute.**
+**Welcome to the code repository for GPT4DFCI, a private and secure generative AI tool, based on GPT-4 and deployed at Dana-Farber Cancer Institute.**
 
-This repository is organized in 4 sections:
+*The development of this tool is led by the Dana-Farber Informatics & Analytics Department; tool requirements, usage policy, and training material are overseen by the broader Dana-Farber Generative AI Governance Committee.*
 
-- Training material for the users
+This repository is organized in the following sections:
+
 - Manuscript & policy details accompaining this tool
+- Training material for the users
 - Front-end code - this is the application where the users place their queries and read the output
 - Back-end code that handles all requests from the applicaiton and routes all requests to other components
 - Infrastructure that was used to deploy this
-
-# 🧑‍🎓 Training
-
-Here you will find the [training material](./link) that accompanied this tool deployment.
+- License
+- Contact
 
 # 📜 Manuscript & policy
 
 Here is linked the [Manuscript & policy details](./link) regarding this tool adoption.
 
+# 🧑‍🎓 Training
+
+Here you will find the [training material](./link) that accompanied this tool deployment.
+
 # 💻 GPT4DFCI Front-end Code
 
 <img src="https://github.com/Dana-Farber-AIOS/GPT4DFCI/assets/25375373/3400b3cf-9faf-4fce-8c22-3dff0cb5313e"/>
+
+All code is in the [DFCI-GPT4DFCI](./DFCI-GPT4DFCI) folder.
 
 ## Stack
 
@@ -82,6 +88,8 @@ yarn prettier --write .
 
 <img src="https://github.com/Dana-Farber-AIOS/GPT4DFCI/assets/25375373/91ac623e-8f4d-4a3b-9d3f-e26230965c1d"/>
 
+All code is in the [DFCI-GPT4DFCI-Backend](./DFCI-GPT4DFCI-Backend) folder.
+
 ## Development setup
 
 1. Install [Poetry](https://python-poetry.org/docs/)
@@ -104,3 +112,15 @@ poetry export --without-hashes --format=requirements.txt > requirements.txt
 # 🔌 Infrastructure as code
 
 All hardware and services were deployed using [this IAC configuration](./infra.iac)
+
+# 🎫 License
+
+The GNU GPL v2 version of GPT4DFCI is made available via Open Source licensing. The user is free to use, modify, and distribute under the terms of the GNU General Public License version 2.
+
+Commercial license options are available also.
+
+# 📧 Contact
+
+Questions? Comments? Suggestions? Get in touch!
+
+aios@dfci.harvard.edu
