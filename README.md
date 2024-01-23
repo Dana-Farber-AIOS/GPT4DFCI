@@ -2,7 +2,7 @@
 
 **Welcome to the code repository for GPT4DFCI, a private and secure generative AI tool, based on GPT-4 and deployed at Dana-Farber Cancer Institute.**
 
-*ℹ️ Tool requirements, usage policy, and training material are overseen by the broader Dana-Farber Generative AI Governance Committee. The development of this tool is led by the Dana-Farber Informatics & Analytics Department. *
+*ℹ️ Tool requirements, usage policy, and training material are overseen by the broader Dana-Farber Generative AI Governance Committee. The development of this tool is led by the Dana-Farber Informatics & Analytics Department.*
 
 This repository is organized in the following sections:
 
