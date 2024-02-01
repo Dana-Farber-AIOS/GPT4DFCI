@@ -16,19 +16,17 @@ This repository is organized in the following sections:
 
 # 📜 Manuscript & policy
 
-Here is linked the [Manuscript & policy details](./link) regarding this tool adoption.
+👉 Here is linked the [Manuscript & policy details](./link) regarding this tool adoption.
 
 # 🧑‍🎓 Training
 
-Here you will find the [training material](./link) that accompanied this tool deployment.
+👉 Here you will find the [training material](./link) that accompanied this tool deployment.
 
 # 💻 GPT4DFCI Front-end Code
 
 <img src="https://github.com/Dana-Farber-AIOS/GPT4DFCI/assets/25375373/3400b3cf-9faf-4fce-8c22-3dff0cb5313e"/>
 
-
-
-All code is in the [DFCI-GPT4DFCI](./DFCI-GPT4DFCI) folder.
+👉 All code is in the [DFCI-GPT4DFCI](./DFCI-GPT4DFCI) folder.
 
 ## Stack
 
@@ -90,9 +88,7 @@ yarn prettier --write .
 
 <img src="https://github.com/Dana-Farber-AIOS/GPT4DFCI/assets/25375373/91ac623e-8f4d-4a3b-9d3f-e26230965c1d"/>
 
-
-
-All code is in the [DFCI-GPT4DFCI-Backend](./DFCI-GPT4DFCI-Backend) folder.
+👉 All code is in the [DFCI-GPT4DFCI-Backend](./DFCI-GPT4DFCI-Backend) folder.
 
 ## Development setup
 
@@ -112,10 +108,6 @@ https://learn.microsoft.com/en-us/azure/developer/python/tutorial-containerize-s
 ```
 poetry export --without-hashes --format=requirements.txt > requirements.txt
 ```
-
-# 🔌 Infrastructure as code
-
-All hardware and services were deployed using [this IAC configuration](./infra.iac)
 
 # 🎫 License
 
