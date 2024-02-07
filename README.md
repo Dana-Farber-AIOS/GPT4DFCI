@@ -44,7 +44,11 @@ This repository is organized in the following sections:
 
 The GNU GPL v2 version of GPT4DFCI is made available via Open Source licensing. The user is free to use, modify, and distribute under the terms of the GNU General Public License version 2.
 
-Commercial license options are available also.
+Commercial license options are available also, and include these additional features:
+- Accurate per-user monthly billing, based on actual Azure OpenAI token consumption
+- Log analytics to monitor application status and application adoption by the user base
+- Log analytics to detect and monitor power users and possibly malicious behavior (e.g., jailbreaking attempts)
+- Load balancing and retry logic to mitigate Azure OpenAI quota limits and ensure a smooth user experience 
 
 # 📧 Contact
 
