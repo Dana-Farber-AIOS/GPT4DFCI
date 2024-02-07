@@ -28,13 +28,17 @@ This repository is organized in the following sections:
 
 👉 Code & instructions are in the [DFCI-GPT4DFCI](./DFCI-GPT4DFCI) folder.
 
-
 # ⌨ GPT4DFCI Backend Code
 
 <img src="https://github.com/Dana-Farber-AIOS/GPT4DFCI/assets/25375373/91ac623e-8f4d-4a3b-9d3f-e26230965c1d"/>
 
 👉 Code & instructions are in the [DFCI-GPT4DFCI-Backend](./DFCI-GPT4DFCI-Backend) folder.
 
+# ⌨ GPT4DFCI Infrastructure
+
+![image](https://github.com/Dana-Farber-AIOS/GPT4DFCI/assets/25375373/413e1af9-576f-44a8-9cc4-1fffb53d7c2c)
+
+👉 Code & instructions are in the [DFCI-GPT4DFCI-infra](./DFCI-GPT4DFCI-infra) folder.
 
 # 🎫 License
 
