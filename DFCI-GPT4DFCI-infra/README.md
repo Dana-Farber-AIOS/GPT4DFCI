@@ -39,3 +39,5 @@ This is alpha code provided as an example. What we ended up doing for v1.0 is to
 ### Take down the infra
 
 `pulumi destroy`
+
+![image](https://github.com/Dana-Farber-AIOS/GPT4DFCI/assets/25375373/413e1af9-576f-44a8-9cc4-1fffb53d7c2c)
