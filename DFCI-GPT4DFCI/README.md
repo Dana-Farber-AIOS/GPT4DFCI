@@ -1,5 +1,7 @@
 # GPT4DFCI Front-end Code
 
+<img src="https://github.com/Dana-Farber-AIOS/GPT4DFCI/assets/25375373/3400b3cf-9faf-4fce-8c22-3dff0cb5313e"/>
+
 ## Stack
 
 -   **Language:** [TypeScript](https://www.typescriptlang.org/)
@@ -54,3 +56,5 @@ To run formatter:
 ```
 yarn prettier --write .
 ```
+
+<img src="https://github.com/Dana-Farber-AIOS/GPT4DFCI/assets/25375373/3400b3cf-9faf-4fce-8c22-3dff0cb5313e"/>
