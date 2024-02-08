@@ -6,10 +6,10 @@
 
 This repository is organized in the following sections:
 
-- Manuscript & policy details accompaining this tool
+- Manuscript & policy details accompanying this tool
 - Training material for the users
 - Front-end code - this is the application where the users place their queries and read the output
-- Back-end code that handles all requests from the applicaiton and routes all requests to other components
+- Back-end code that handles all requests from the application and routes all requests to other components
 - Infrastructure that was used to deploy this
 - License
 - Contact
