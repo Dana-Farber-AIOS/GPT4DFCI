@@ -20,7 +20,7 @@ This repository is organized in the following sections:
 
 # 🧑‍🎓 Training
 
-👉 Here you will find the [training material](./link) that accompanied this tool deployment.
+👉 Here you will find the [training material](./GPT4DFCI%20User%20Technical%20Training/GPT4DFCI%20Training%20v204.pdf) that accompanied this tool deployment.
 
 # 💻 GPT4DFCI Front-end Code
 
