@@ -30,7 +30,7 @@ This repository is organized in the following sections:
 
 # ⌨ GPT4DFCI Backend Code
 
-<img src="https://github.com/Dana-Farber-AIOS/GPT4DFCI/assets/25375373/91ac623e-8f4d-4a3b-9d3f-e26230965c1d"/>
+<img src="https://github.com/Dana-Farber-AIOS/GPT4DFCI/assets/25375373/2fd2777c-27ba-4821-9c85-b81146da872d"/>
 
 👉 Code & instructions are in the [DFCI-GPT4DFCI-Backend](./DFCI-GPT4DFCI-Backend) folder.
 
