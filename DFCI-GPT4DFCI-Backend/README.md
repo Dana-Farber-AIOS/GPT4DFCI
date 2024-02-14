@@ -19,4 +19,4 @@ https://learn.microsoft.com/en-us/azure/developer/python/tutorial-containerize-s
 poetry export --without-hashes --format=requirements.txt > requirements.txt
 ```
 
-<img src="https://github.com/Dana-Farber-AIOS/GPT4DFCI/assets/25375373/91ac623e-8f4d-4a3b-9d3f-e26230965c1d"/>
+<img src="https://github.com/Dana-Farber-AIOS/GPT4DFCI/assets/25375373/2fd2777c-27ba-4821-9c85-b81146da872d"/>
