@@ -24,7 +24,7 @@ This is alpha code provided as an example. What we ended up doing for v1.0 is to
 
 ## Run the deployment
 
-### Replace `__main__.py` content with `infra-pulumi-alpha.py` content
+### Replace `__main__.py` content with [`infra-pulumi-alpha.py`](./infra-pulumi-alpha.py) content
 
 ### Bring up the infra
 
