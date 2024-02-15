@@ -1,5 +1,5 @@
 ##
-## This is alpha code, generated with GPT4DFCI (a private and secure LLM based on GPT4) 
+## This is alpha code, generated with GPT4DFCI (a private and secure generative AI tool based on GPT4) 
 ##
 
 import pulumi
