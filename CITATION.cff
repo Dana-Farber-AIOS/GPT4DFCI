@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+message: "Citation for this repository"
+authors:
+  - family-names: Umeton
+    given-names: Renato
+  - family-names: Kwok
+    given-names: Anne
+  - family-names: Maurya
+    given-names: Rahul
+  - family-names: Leco
+    given-names: Domenic
+  - family-names: Lenane
+    given-names: Naomi
+  - family-names: Willcox
+    given-names: Jennifer
+  - family-names: Abel
+    given-names: Gregory
+  - family-names: Tolikas
+    given-names: Mary
+  - family-names: Johnson
+    given-names: Jason
+title: "GPT-4 in a Cancer Center: Institute-Wide Deployment Challenges and Lessons Learned"
+date-released: 2024-03-15
+doi: 10.1056/AIcs2300191
+url: https://github.com/Dana-Farber-AIOS/GPT4DFCI
+preferred-citation:
+  type: article
+  authors:
+      - family-names: Umeton
+        given-names: Renato
+      - family-names: Kwok
+        given-names: Anne
+      - family-names: Maurya
+        given-names: Rahul
+      - family-names: Leco
+        given-names: Domenic
+      - family-names: Lenane
+        given-names: Naomi
+      - family-names: Willcox
+        given-names: Jennifer
+      - family-names: Abel
+        given-names: Gregory
+      - family-names: Tolikas
+        given-names: Mary
+      - family-names: Johnson
+        given-names: Jason
+  doi: 10.1056/AIcs2300191
+  journal: "NEJM AI"
+  publisher: Massachusetts Medical Society
+  month: 3
+  year: 2024
+  issue: 4
+  volume: 1
+  start: 10
+  title: "GPT-4 in a Cancer Center: Institute-Wide Deployment Challenges and Lessons Learned"
+  url: https://ai.nejm.org/doi/full/10.1056/AIcs2300191
