@@ -14,9 +14,9 @@ This repository is organized in the following sections:
 - License
 - Contact
 
-# 📜 Manuscript & policy
+# 📜 Manuscript & policy 📄
 
-👉 Here is linked the [Manuscript & policy details](https://ai.nejm.org/doi/full/10.1056/AIcs2300191) regarding this tool adoption.
+👉 Here are linked the [Manuscript & policy details](https://ai.nejm.org/stoken/default+domain/MBGFT6KIUT9AYKQNJB5Q/full?redirectUri=/doi/full/10.1056/AIcs2300191) regarding this tool adoption.
 
 # 🧑‍🎓 Training
 
