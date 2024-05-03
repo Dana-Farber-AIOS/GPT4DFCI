@@ -11,6 +11,7 @@ This repository is organized in the following sections:
 - Front-end code - this is the application where the users place their queries and read the output
 - Back-end code that handles all requests from the application and routes all requests to other components
 - Infrastructure that was used to deploy this
+- GPT4DFCI API client - to use GPT4DFCI programmatically, within your application
 - License
 - Contact
 
@@ -39,6 +40,10 @@ This repository is organized in the following sections:
 ![image](https://github.com/Dana-Farber-AIOS/GPT4DFCI/assets/25375373/413e1af9-576f-44a8-9cc4-1fffb53d7c2c)
 
 👉 Code & instructions are in the [DFCI-GPT4DFCI-infra](./DFCI-GPT4DFCI-infra) folder.
+
+# 🔌 GPT4DFCI API Client
+
+👉 Code & instructions are in the [GPT4DFCI API](https://github.com/Dana-Farber-AIOS/GPT4DFCI-API) code repository.
 
 # 🎫 License
 
