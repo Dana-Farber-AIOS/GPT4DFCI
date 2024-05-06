@@ -41,7 +41,9 @@ This repository is organized in the following sections:
 
 👉 Code & instructions are in the [DFCI-GPT4DFCI-infra](./DFCI-GPT4DFCI-infra) folder.
 
-# 🔌 GPT4DFCI API Client
+# 🔌 API Usage
+
+![image](https://github.com/Dana-Farber-AIOS/GPT4DFCI/assets/25375373/9aa51ab7-0587-45e3-92f1-2f109252895e)
 
 👉 Code & instructions are in the [GPT4DFCI API](https://github.com/Dana-Farber-AIOS/GPT4DFCI-API) code repository.
 
