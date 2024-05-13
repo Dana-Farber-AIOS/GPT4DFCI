@@ -62,3 +62,8 @@ Commercial license options are available also, and include these additional feat
 Questions? Comments? Suggestions? Get in touch!
 
 aios@dfci.harvard.edu
+
+<img width="16px" src="https://github.com/Dana-Farber-AIOS/GPT4DFCI/assets/25375373/4d842366-57d8-47aa-b4bf-d50e9c189413" /> Dana-Farber personnel: please contact us through the [dedicated ticketing system](https://dfciservicerequest.dfci.harvard.edu/Home/CreateGPT).
+
+
+
