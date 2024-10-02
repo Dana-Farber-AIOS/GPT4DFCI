@@ -19,6 +19,8 @@ This repository is organized in the following sections:
 
 👉 Here are linked the [Manuscript & policy details](https://ai.nejm.org/stoken/default+domain/MBGFT6KIUT9AYKQNJB5Q/full?redirectUri=/doi/full/10.1056/AIcs2300191) regarding this tool adoption.
 
+📣 Continue reading on [Dana-Farber press release](https://www.dana-farber.org/newsroom/news-releases/2024/private-and-secure-generative-ai-tool-supports-operations-and-research-at-dana-farber).
+
 # 🧑‍🎓 Training
 
 👉 Here you will find the [training material](./GPT4DFCI%20User%20Technical%20Training/) that accompanied this tool deployment.
