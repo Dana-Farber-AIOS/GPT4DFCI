@@ -8,6 +8,7 @@ This repository is organized in the following sections:
 
 - Manuscript & policy details accompanying this tool
 - Training material for the users
+
 - Front-end code - this is the application where the users place their queries and read the output
 - Back-end code that handles all requests from the application and routes all requests to other components
 - Infrastructure that was used to deploy this
@@ -15,9 +16,11 @@ This repository is organized in the following sections:
 - License
 - Contact
 
-# 📜 Manuscript & policy 📄
+# 📄 Manuscript & policy 
 
-👉 Here are linked the [Manuscript & policy details](https://ai.nejm.org/stoken/default+domain/MBGFT6KIUT9AYKQNJB5Q/full?redirectUri=/doi/full/10.1056/AIcs2300191) regarding this tool adoption.
+👉 <a href="https://ai.nejm.org/stoken/default+domain/MBGFT6KIUT9AYKQNJB5Q/full?redirectUri=/doi/pdf/10.1056/AIcs2300191">Manuscript PDF <img height="24px" src="https://github.com/user-attachments/assets/75395410-8d05-4825-bfda-d6028a5dd3c1" /></a> and <a href="https://ai.nejm.org/stoken/default+domain/MBGFT6KIUT9AYKQNJB5Q/full?redirectUri=/doi/suppl/10.1056/AIcs2300191/suppl_file/aics2300191_appendix.pdf">Supplementary appendix <img height="24px" src="https://github.com/user-attachments/assets/68bfc899-0da4-4b34-b5b9-e6f882ab12ba" /></a>   
+
+Further material about this tool adoption is available on [NEJM AI](https://ai.nejm.org/stoken/default+domain/MBGFT6KIUT9AYKQNJB5Q/full?redirectUri=/doi/full/10.1056/AIcs2300191).
 
 📣 Continue reading on [Dana-Farber press release](https://www.dana-farber.org/newsroom/news-releases/2024/private-and-secure-generative-ai-tool-supports-operations-and-research-at-dana-farber).
 
